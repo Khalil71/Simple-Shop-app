@@ -1,6 +1,4 @@
-# BACK-END DEVELOPMENT TEST
-
-Simple CRUD project (Shop).
+#Simple CRUD project (Shop).
 
 ## Getting Started
 
