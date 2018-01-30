@@ -1,4 +1,4 @@
-#Simple CRUD project (Shop).
+#Simple CRUD project (Shop)
 
 ## Getting Started
 
@@ -60,9 +60,9 @@ DELETE http://localhost:4000/products/delete
 
 ### get a product with a diffrent currency
 
-#### params: (productId: required) (ISOcurrency: required)
+#### params: (productId: required) (ISOcurrency: required)(ISO format required)
 
-get http://localhost:4000/products/currency
+GET http://localhost:4000/products/currency
 
 ### get total price and cost or each product as well as the total sum of all
 
